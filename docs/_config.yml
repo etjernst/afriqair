@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: AfriqAir 
 description: Africa qualité de l’air 
-logo: afriqair.jpg
+logo: ../afriqair.jpg
 show_downloads: false
